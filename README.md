@@ -1,6 +1,6 @@
-# 🧮 Calorie Slicer — Weekly Calorie Balancer App (Qt C++)
+# 🧮 Calorie Slider — Weekly Calorie Balancer App (Qt C++)
 
-**Calorie Slicer** is a simple Qt-based desktop application that helps users balance their weekly calorie intake using 7 vertical sliders (one for each day). It ensures the total calories consumed across the week match your maintenance calorie goal, helping you visually plan your diet.
+**Calorie Slider** is a simple Qt-based desktop application that helps users balance their weekly calorie intake using 7 vertical sliders (one for each day). It ensures the total calories consumed across the week match your maintenance calorie goal, helping you visually plan your diet.
 
 ---
 
@@ -47,11 +47,11 @@ If you'd like to compile via CMake, use this file:
 **CMakeLists.txt**
 ```cmake
 cmake_minimum_required(VERSION 3.5)
-project(CalorieSlicerApp)
+project(CalorieSliderApp)
 
 set(CMAKE_CXX_STANDARD 11)
 
 find_package(Qt5Widgets REQUIRED)
 
-add_executable(calorie_slicer main.cpp)
-target_link_libraries(calorie_slicer Qt5::Widgets)
+add_executable(calorie_Slider main.cpp)
+target_link_libraries(calorie_Slider Qt5::Widgets)
