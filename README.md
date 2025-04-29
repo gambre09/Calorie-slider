@@ -20,8 +20,7 @@ A Qt-based desktop application that helps you balance weekly calorie intake usin
 ---
 
 ## 🖼️ Screenshot
-> *(Add your own)*  
-<img src="./screenshots/app-preview.png" width="600">
+![image](https://github.com/user-attachments/assets/5dcc6ee5-96fa-42b4-a38f-884cf52cf05b)
 
 ---
 
