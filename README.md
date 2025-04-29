@@ -1,9 +1,11 @@
-# Calorie-slider
-A Qt-based desktop application that helps you balance weekly calorie intake using interactive sliders. Enter your daily maintenance calories and auto-adjust each day to stay on track. Visual, intuitive, and perfect for diet planning.
-
 # 🧮 Calorie Slicer — Weekly Calorie Balancer App (Qt C++)
 
 **Calorie Slicer** is a simple Qt-based desktop application that helps users balance their weekly calorie intake using 7 vertical sliders (one for each day). It ensures the total calories consumed across the week match your maintenance calorie goal, helping you visually plan your diet.
+
+---
+
+## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/5dcc6ee5-96fa-42b4-a38f-884cf52cf05b)
 
 ---
 
@@ -16,11 +18,6 @@ A Qt-based desktop application that helps you balance weekly calorie intake usin
   - Weekly calorie budget (auto-calculated)
   - Average daily calories
   - Total calories consumed across 7 days
-
----
-
-## 🖼️ Screenshot
-![image](https://github.com/user-attachments/assets/5dcc6ee5-96fa-42b4-a38f-884cf52cf05b)
 
 ---
 
